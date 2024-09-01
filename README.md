@@ -1,2 +1,2 @@
 # Line Version
-LINE Messenger supported version with periodic data update
+Alived version of LINE with periodically data update
