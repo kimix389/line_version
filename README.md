@@ -1,2 +1,2 @@
 # Line Version
-LINE Messenger supported version for some device
+LINE Messenger supported version with periodic data update
