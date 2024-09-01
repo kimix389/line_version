@@ -1,2 +1,2 @@
-# line_version
+# Line Version
 LINE Messenger supported version for some device
